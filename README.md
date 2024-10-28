@@ -7,4 +7,4 @@ Estos serían los movimientos de cada uno:
 0 = [4,6]; 3 = [4,8];     6 = [0,1,7]; 9 = [2,4]
 1 = [6,8]; 4 = [0,3,9];   7 = [2,6]
 2 = [7,9]; 5 = Ninguno;   8 = [1,3]
-A partir de los movimientos que puede hacer cada número, se trasladan los datos al código, que quedaría de la manera que aparece en el main.cpp.
+A partir de los movimientos que puede hacer cada número, se trasladan los datos al código, que quedaría de la manera que aparece en el código principal.
