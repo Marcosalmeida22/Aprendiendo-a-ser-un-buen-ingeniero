@@ -1,0 +1,3 @@
+C:/Users/malme/Documents/GitHub/Aprendiendo-a-ser-un-buen-ingeniero/cmake-build-debug/CMakeFiles/Aprendiendo_a_ser_un_buen_ingeniero.dir
+C:/Users/malme/Documents/GitHub/Aprendiendo-a-ser-un-buen-ingeniero/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/malme/Documents/GitHub/Aprendiendo-a-ser-un-buen-ingeniero/cmake-build-debug/CMakeFiles/rebuild_cache.dir
