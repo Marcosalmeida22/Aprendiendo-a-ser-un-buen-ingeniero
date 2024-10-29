@@ -8,3 +8,18 @@ Estos serían los movimientos de cada uno:
 1 = [6,8]; 4 = [0,3,9];   7 = [2,6]
 2 = [7,9]; 5 = Ninguno;   8 = [1,3]
 A partir de los movimientos que puede hacer cada número, se trasladan los datos al código, que quedaría de la manera que aparece en el código principal.
+
+Entonces, después de hacer todo el código, preguntamos al usuario cuantos movimientos quiere hacer para determinar las combinaciones posibles. La tabla quedaría de tal manera:
+1    20
+2    46
+3    104    
+5    544 
+8    6576
+10   34432
+15   2140672 
+18   25881088
+21   307302400
+23   1609056256
+32   2792668987392
+
+    
