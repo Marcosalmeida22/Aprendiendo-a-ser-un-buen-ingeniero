@@ -24,4 +24,8 @@ Entonces, después de hacer todo el código, preguntamos al usuario cuantos movi
 23-1609056256;
 32-2792668987392;
 
+
+
+Estos números se consiguen con una fórmula que es: M(n,N) = Σ M(m,N-1)
+
     
